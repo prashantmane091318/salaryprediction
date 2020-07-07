@@ -13,4 +13,3 @@ Click==7.0
 cloudpickle==1.2.2
 request
 flask
-nltk==3.4.5
